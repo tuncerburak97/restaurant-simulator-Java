@@ -1,5 +1,5 @@
 
-# Fibabanka Java Bootcamp 3. Hafta Ödev
+# Restaurant Simulator
 
 Ödev bir restoran simulasyonu. Restoranda 2 tane şef, 3 tane garson ve 5 tane de masa bulunuyor. Restoran sürekli açık ve
 müşteriler restorana gelip boş masalara oturup garsonlara sipariş veriyor. Garsonlar da siparişleri şeflere iletip daha 
